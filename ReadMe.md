@@ -47,7 +47,7 @@ python color_defect.py
 cd Overlapper 
 python canny.py 
 ```
-##Contribution
+## Contribution
 
 This project is still under development. If you would like up to add something please mail to us @[Vishnukanth.S](mailto:vkanthishnu@gmail.com)
 
