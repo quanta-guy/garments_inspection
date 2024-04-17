@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+opencv-python
+opencv-contrib-python
+ultralytics
+
+       ###print(11*400.45/distance_shoulders)
