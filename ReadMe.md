@@ -1,8 +1,8 @@
-﻿#Garments Inspection System
+﻿# Garments Inspection System
 
 Welcome to the Vision based Garments Inspection! This repository contains scripts and resources for inspecting garments using computer vision techniques. This guide provides instructions on how to set up the environment, run the scripts, and contribute to the repository.
 
-##Setup
+## Setup
 
 1. **Clone the Repository**: Clone the **garments\_inspection** repository to your local machine:
 
@@ -22,7 +22,7 @@ conda create --name garments\_inspection python=3.9.16 conda activate garments\_
    2. Find the video camera source link configuration and modify it to your camera source.
 4. **Download**: Download this [file](https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8x-pose-p6.pt) and copy it into measurement_stain>models directory
 
-##Usage
+## Usage
 
 **Running Scripts**
 
@@ -44,7 +44,8 @@ cd Overlapper python canny.py
 ##Contribution
 
 This project is still under development. If you would like up to add something please mail to us @[Vishnukanth.S](mailto:vkanthishnu@gmail.com)
-**License**
+
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
