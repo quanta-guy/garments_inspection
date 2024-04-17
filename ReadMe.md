@@ -20,7 +20,7 @@ conda create --name garments\_inspection python=3.9.16 conda activate garments\_
 3. **Edit Scripts**: Edit the scripts (**Canny.py**, **defect.py**, **color\_defect.py**) to configure the video camera source link:
    1. Open **Canny.py**, **defect.py**, and **color\_defect.py** in a text editor.
    2. Find the video camera source link configuration and modify it to your camera source.
-4. **Download**: Download this [file](https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8x-pose-p6.pt) and copy it into measurement_stain>models director
+4. **Download**: Download this [file](https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8x-pose-p6.pt) and copy it into measurement_stain>models directory
 
 ##Usage
 
